@@ -1,37 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Experience: Coaching Esport
 
-## Getting Started
+Experience est une plateforme de coaching esport qui permet aux joueurs de trouver des coachs professionnels pour les aider à progresser dans leur jeu préféré. Le site est spécialement conçu en version mobile pour une expérience utilisateur optimale sur les appareils mobiles, touchant ainsi un maximum d'utilisateurs.
 
-First, run the development server:
+## Fonctionnalités
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Recherche de coachs professionnels par jeu
+- Visualisation des profils des coachs, y compris leur expérience, leurs tarifs et leurs disponibilités
+- Prise de rendez-vous avec les coachs via le site
+- Système de notation et de commentaires pour évaluer l'expérience du coaching
 
-Open [https://experience-backend.vercel.app
-](https://experience-backend.vercel.app) with your browser to see the result.
+## Technologies Utilisées
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- HTML, CSS, JavaScript
+- Front-end: React.js, Next.js
+- Back-end: Express.js, Node.js
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Déploiement
 
-## Learn More
+Le déploiement du site est disponible ici: https://experience-frontend.vercel.app/gamer/elise
+Je vous conseille de l'ouvir sur votre navigateur en version mobile via l'inspecteur pour une meilleure expérience.
 
-To learn more about Next.js, take a look at the following resources:
+## Comment Utiliser
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Accédez au site web à l'aide de votre appareil mobile ou de votre navigateur mobile.
+2. Recherchez des coachs en sélectionnant le jeu pour lequel vous souhaitez obtenir du coaching.
+3. Parcourez les profils des coachs disponibles, examinez leurs compétences, leurs tarifs et leurs disponibilités.
+4. Prenez rendez-vous avec le coach qui correspond le mieux à vos besoins.
+5. Après la séance de coaching, laissez une évaluation et un commentaire pour aider les autres utilisateurs.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Captures d'écran
 
-## Deploy on Vercel
+<a href='https://postimg.cc/jW1q4gNM' target='_blank'><img src='https://i.postimg.cc/jW1q4gNM/experience.png' border='0' alt='experience'/></a>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
