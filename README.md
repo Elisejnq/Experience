@@ -2,6 +2,10 @@
 
 Experience est une plateforme de coaching esport qui permet aux joueurs de trouver des coachs professionnels pour les aider à progresser dans leur jeu préféré. Le site est spécialement conçu en version mobile pour une expérience utilisateur optimale sur les appareils mobiles, touchant ainsi un maximum d'utilisateurs.
 
+## DEMO
+
+Voici la démonstration d'un parcours utilisateur Coach et Gamer : https://vimeo.com/929581868?share=copy
+
 ## Fonctionnalités
 
 - Recherche de coachs professionnels par jeu
@@ -17,7 +21,7 @@ Experience est une plateforme de coaching esport qui permet aux joueurs de trouv
 
 ## Déploiement
 
-Le déploiement du site est disponible ici: https://experience-frontend.vercel.app/gamer/elise
+Le déploiement du site est disponible ici: https://experience-frontend.vercel.app
 Je vous conseille de l'ouvir sur votre navigateur en version mobile via l'inspecteur pour une meilleure expérience.
 
 ## Comment Utiliser
