@@ -19,11 +19,6 @@ Voici la démonstration d'un parcours utilisateur Coach et Gamer : https://vimeo
 - Front-end: React.js, Next.js
 - Back-end: Express.js, Node.js
 
-## Déploiement
-
-Le déploiement du site est disponible ici: https://experience-frontend.vercel.app
-Je vous conseille de l'ouvrir sur votre navigateur en version mobile via l'inspecteur pour une meilleure expérience.
-
 ## Comment Utiliser
 
 1. Accédez au site web à l'aide de votre appareil mobile ou de votre navigateur mobile.
@@ -42,4 +37,8 @@ Je vous conseille de l'ouvrir sur votre navigateur en version mobile via l'inspe
 <a href="https://postimg.cc/478Rvw0W" target="_blank"><img src="https://i.postimg.cc/478Rvw0W/Capture-d-cran-2024-04-01-18-33-31.png" alt="Capture-d-cran-2024-04-01-18-33-31"/></a>
 <a href="https://postimg.cc/kD4mM3Vz" target="_blank"><img src="https://i.postimg.cc/kD4mM3Vz/Capture-d-cran-2024-04-01-18-33-44.png" alt="Capture-d-cran-2024-04-01-18-33-44"/></a>
 
+## Déploiement
+
+Le déploiement du site est disponible ici: https://experience-frontend.vercel.app
+Je vous conseille de l'ouvrir sur votre navigateur en version mobile via l'inspecteur pour une meilleure expérience.
 
