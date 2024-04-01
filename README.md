@@ -22,7 +22,7 @@ Voici la démonstration d'un parcours utilisateur Coach et Gamer : https://vimeo
 ## Déploiement
 
 Le déploiement du site est disponible ici: https://experience-frontend.vercel.app
-Je vous conseille de l'ouvir sur votre navigateur en version mobile via l'inspecteur pour une meilleure expérience.
+Je vous conseille de l'ouvrir sur votre navigateur en version mobile via l'inspecteur pour une meilleure expérience.
 
 ## Comment Utiliser
 
